@@ -1,0 +1,21 @@
+.app-container {
+  display: flex;
+  width: 100%;
+}
+
+.sidebar {
+  width: 220px; /* or whatever width fits your design */
+  background-color: #1e1e2f;
+  min-height: 100vh;
+  padding: 1rem;
+  color: white;
+}
+
+.content {
+  flex: 1; /* take remaining space */
+  padding: 1rem;
+}
+
+.Header {
+  width: 100%;
+}
