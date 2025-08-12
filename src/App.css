@@ -19,3 +19,21 @@
 .Header {
   width: 100%;
 }
+
+.post-card {
+  margin: 20px 50px;
+  min-width: 30rem;
+  max-width: 100%;
+  word-wrap: break-word;
+}
+.card-body .d-flex {
+  flex-wrap: wrap;
+}
+.hashtag {
+  margin: 3px 5px;
+}
+.reactions {
+  max-width: 100%;
+  margin: 10px 10px;
+  font-size: 0.95rem;
+}
